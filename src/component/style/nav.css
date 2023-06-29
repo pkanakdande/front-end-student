@@ -1,0 +1,12 @@
+.nav{
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+    background-color: cadetblue;
+    
+}
+.nav span{
+    margin: 10px;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

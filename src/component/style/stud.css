@@ -1,0 +1,78 @@
+.container{
+   text-align: center;
+    width: 1000px;
+    height: 300px;
+   
+    margin: auto;
+  background-color:pink;
+  box-shadow: 5px 5px 10px gray;
+}
+h1{
+    color: crimson;
+}
+.container label{
+    font-size: 20px;
+}
+.container input{
+    border: none;
+    width: 300px;
+   height: 30px;
+   margin-left: 20px;
+   border-radius: 5px;
+}
+.container div{
+    margin: 10px;
+}
+
+.imp{
+    display: flex;
+}
+.imp2{
+    display: flex;
+}
+.imp1{
+    display: flex;
+}
+/* .imp1 label{
+    position: relative;
+    margin-left: -100px;
+} */
+.table1{
+    margin-left: 350px;
+    width: 1010px;
+    height: 200px;
+    background-color: aqua;
+    box-shadow: 5px 5px 10px gray;
+}
+table input{
+    border: none;
+    width: 180px;
+    height: 30px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+#btn{
+    margin-left: 418px;
+    width: 150px;
+    height: 30px;
+    border: none;
+    margin-top:15px ;
+    border-radius: 5px;
+    font-size: 20px;
+}
+select{
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+}
+
+td{
+    border: 1px solid black;
+    
+}
